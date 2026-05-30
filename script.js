@@ -1,5 +1,6 @@
 document.getElementById('vagaForm').addEventListener('submit', function(event) {
     // Evita que a página recarregue ao enviar o formulário
+    //comentário
     event.preventDefault();
 
     // Captura os valores dos inputs
